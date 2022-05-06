@@ -6,7 +6,9 @@
 
 #include <iostream> // para input/output stream
 
-#include <assert.h>  /*assert asevera (chequea) si la sentencia dentro de los parentesis es verdadera.*/
+#include <cassert>  /* llamo a biblio cassert para poder usa assert
+                    cassert -> (asegurar, afirmar, aseverar o asertar) de C++.
+                    assert asevera (chequea) si la sentencia dentro de los parentesis es verdadera.*/
 
 int main() {    // Defino la clase principal del programa por donde C++ ingresa, siempre retorna un entero que se define como el estado de la ejecucion.
 
